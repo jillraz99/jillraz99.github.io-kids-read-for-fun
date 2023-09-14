@@ -1,0 +1,34 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
+
+  h1{
+    font-family: 'Lora', serif;
+    font-weight: 600;
+  }
+
+  body{
+    font-family: 'Helvetica', 'Arial', 'Sans-serif';
+    color: #333;
+  }
+
+  a{
+    text-decoration: none;
+  }
+    /* Navigation Styles*/
+
+    nav a{
+        color: #666;
+    }
+
+ nav a:active{
+    color: #DEB887;
+ }
+
+ nav a:hover{
+    color: #00ddff;
+ }
+
+ 
+
+
+   
