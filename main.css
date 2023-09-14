@@ -6,6 +6,10 @@
     font-weight: 600;
   }
 
+  h1, h2{
+    color:black;
+  }
+
   body{
     font-family: 'Helvetica', 'Arial', 'Sans-serif';
     color: #333;
